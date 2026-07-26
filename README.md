@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Hi, I'm Rampal Lodhi 👨‍💻</h1>
+<h1 align="center"> Hi, I'm Rampal Lodhi 👨‍💻</h1>
 
 <h3 align="center">
-💻 Software Developer | Frontend Developer | Problem Solver | Tech Explorer
+ Software Developer | Frontend Developer | Problem Solver | Tech Explorer
 </h3>
 
 <p align="center">
@@ -20,20 +20,20 @@
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 Passionate Software Developer from India  
+ Passionate Software Developer from India  
 
-💡 Love creating real-world projects and solving coding problems  
+ Love creating real-world projects and solving coding problems  
 
-🌱 Currently learning:
+ Currently learning:
 - Advanced React
 - Python
 - AI Development
 - Cyber Security
 
-🎯 Career Goal:
+  Career Goal:
 > Become a professional Software Engineer and contribute to impactful technology.
 
-⚡ Fun Fact:
+  Fun Fact:
 ```cpp
 while(alive)
 {
@@ -46,7 +46,7 @@ while(alive)
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -58,31 +58,31 @@ while(alive)
 
 ---
 
-# 💻 Core Computer Science
+#  Core Computer Science
 
 <div align="center">
 
-| 💡 Subjects | 🚀 Knowledge |
+|   Subjects |  Knowledge |
 |---|---|
-| Data Structures & Algorithms | ✅ |
-| Operating System | ✅ |
-| OOPS | ✅ |
-| DBMS | ✅ |
-| Computer Networks | ✅ |
+| Data Structures & Algorithms | Yes |
+| Operating System | Yes |
+| OOPS | Yes|
+| DBMS | Yes |
+| Computer Networks | yes |
 
 </div>
 
 ---
 
-# 🔥 Featured Projects
+#   Featured Projects
 
 ---
 
-## 📸 Camera Permission Analyzer
+##   Camera Permission Analyzer
 
-🔗 https://github.com/Ramrampal/camera-permission-analyzer
+  https://github.com/Ramrampal/camera-permission-analyzer
 
-✨ Features:
+  Features:
 - Browser Camera Permission Analysis
 - Security Awareness Tool
 - Interactive Frontend UI
@@ -90,35 +90,35 @@ while(alive)
 
 ---
 
-## 📍 Live Location Tracker
+##   Live Location Tracker
 
 🔗 https://github.com/Ramrampal/live-location-tracker
 
-✨ Features:
+  Features:
 - Real-time Geolocation Tracking
 - JavaScript API Integration
 - Interactive UI Experience
 
 ---
 
-## 🤖 Medical Research AI
+##  Medical Research AI
 
-🔗 https://github.com/Ramrampal/medical-research-ai
+  https://github.com/Ramrampal/medical-research-ai
 
-✨ Features:
+  Features:
 - AI-based Research System
 - Smart Information Processing
 - Future-Oriented Innovation
 
 ---
 
-# 🧠 DSA & Learning Repositories
+#  DSA & Learning Repositories
 
 ---
 
-## 📚 DSA CodeHelp
+##  DSA CodeHelp
 
-🔗 https://github.com/Ramrampal/DSA_codeHelp
+ https://github.com/Ramrampal/DSA_codeHelp
 
 ✔ DSA Questions  
 ✔ Competitive Programming  
@@ -126,7 +126,7 @@ while(alive)
 
 ---
 
-## 🧩 class-obj-AS-TTS
+##  class-obj-AS-TTS
 
 🔗 https://github.com/Ramrampal/class-obj-AS-TTS
 
@@ -146,7 +146,7 @@ while(alive)
 
 ---
 
-## 🔤 String Repository
+##  String Repository
 
 🔗 https://github.com/Ramrampal/String
 
@@ -155,7 +155,7 @@ while(alive)
 
 ---
 
-## 🔢 Array Repository
+##  Array Repository
 
 🔗 https://github.com/Ramrampal/Array
 
@@ -165,7 +165,7 @@ while(alive)
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -177,7 +177,7 @@ while(alive)
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramrampal&theme=react-dark"/>
@@ -185,7 +185,7 @@ while(alive)
 
 ---
 
-# 🏆 GitHub Achievements
+#  GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Ramrampal&theme=algolia&margin-w=15&margin-h=15"/>
@@ -193,7 +193,7 @@ while(alive)
 
 ---
 
-# 🚀 3D Developer Animation
+#  3D Developer Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -201,7 +201,7 @@ while(alive)
 
 ---
 
-# 🌍 Visitor Counter
+#  Visitor Counter
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -209,7 +209,7 @@ while(alive)
 
 ---
 
-# 📌 Current Focus
+#  Current Focus
 
 ```yaml
 Learning:
@@ -229,7 +229,7 @@ Dream:
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -245,7 +245,7 @@ Dream:
 
 ---
 
-# 💡 Developer Quote
+#  Developer Quote
 
 <p align="center">
 
@@ -261,6 +261,6 @@ Dream:
 
 </p>
 
-<h3 align="center">
-⭐ "Ram"⭐
+<h3 align="center">  
+   Ram
 </h3>
