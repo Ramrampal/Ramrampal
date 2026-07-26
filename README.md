@@ -5,6 +5,11 @@
 </h3>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Developer;React+Developer;DSA+Enthusiast;AI+%26+Cyber+Security+Learner;Building+Real+World+Projects;Open+Source+Contributor" />
 </p>
 
@@ -197,14 +202,6 @@ while(alive)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-#  Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
