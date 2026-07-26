@@ -262,5 +262,5 @@ Dream:
 </p>
 
 <h3 align="center">
-⭐ "Code • Learn • Build • Repeat" ⭐
+⭐ "Ram"⭐
 </h3>
