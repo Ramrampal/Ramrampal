@@ -1,52 +1,41 @@
-<h1 align="center">Hi 👋, I'm Rampal Lodhi</h1> <h3 align="center"> 💻 Software Developer | ⚛️ Frontend Developer | 🧠 Problem Solver | 🚀 Tech Explorer </h3> <p align="center"> <a href="https://github.com/Ramrampal"> <img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </a> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Developer;React+%26+Next.js+Developer;Java+%26+Spring+Boot+Developer;DSA+Enthusiast;AI+%26+Cyber+Security+Learner;Building+Real+World+Projects;Always+Learning+%F0%9F%9A%80"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/> </p>
+Absolutely — the main alignment problems are from the mixed <div>, <p>, table, and image structures. I’ve standardized the README around centered HTML blocks, fixed the Core CS table, aligned project sections, and kept the overall design intact.
+
+Aligned GitHub Profile README
+<h1 align="center">Hi 👋, I'm Rampal Lodhi</h1> <h3 align="center"> 💻 Software Developer &nbsp;|&nbsp; ⚛️ Frontend Developer &nbsp;|&nbsp; 🧠 Problem Solver &nbsp;|&nbsp; 🚀 Tech Explorer </h3> <p align="center"> <a href="https://github.com/Ramrampal"> <img src="https://komarev.com/ghpvc/?username=Ramrampal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </a> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Developer;Frontend+Developer;React+%26+Next.js+Developer;Java+%26+Spring+Boot+Developer;DSA+Enthusiast;AI+%26+Cyber+Security+Learner;Building+Real+World+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Header"/> </p>
 🌌 About Me
 <img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🚀 Passionate Software Developer from India
+🚀 Passionate Software Developer from India.
 
 💻 I enjoy building real-world applications and solving challenging programming problems.
 
-🧠 Strong interest in:
-
+🧠 Strong Interest In
 Full-Stack Development
 Frontend Engineering
 Data Structures & Algorithms
 AI Development
 Cyber Security
-
-🌱 Currently exploring:
-
+🌱 Currently Exploring
 React & Next.js
 Java & Spring Boot
 Python
 AI-powered applications
 Modern Web Technologies
-
 🎯 Career Goal
 
 Build scalable, meaningful software and grow into a professional Software Engineer.
 
 ⚡ Developer Philosophy
-
-while(alive)
-{
+while (alive) {
     learn();
     build();
     solve();
     improve();
 }
 
+<br clear="right"/>
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,mysql" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs" alt="Frontend Technologies"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp,mysql" alt="Programming Technologies"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/> </p>
 🧠 Core Computer Science
 <div align="center">
 📚 Subject	💡 Knowledge
@@ -58,18 +47,11 @@ Computer Networks	⭐⭐⭐
 SQL & Databases	⭐⭐⭐⭐
 </div>
 🚀 Featured Projects
-
-⭐ My latest and most important projects
-
+<p align="center"> ⭐ <b>My Latest & Most Important Projects</b> ⭐ </p>
 💼 Smart Job Matching
-<p align="center">
-🚀 Full-Stack Job Matching Platform
-</p>
+<p align="center"> 🚀 <b>Full-Stack Job Matching Platform</b> </p> <p align="center"> <a href="https://github.com/Ramrampal/Smart-Job-Matching"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p>
 
-🔗 Repository:
-https://github.com/Ramrampal/Smart-Job-Matching
-
-A full-stack platform designed to connect job seekers and relevant job opportunities through a structured job-matching system.
+A full-stack platform designed to connect job seekers with relevant job opportunities through a structured job-matching system.
 
 ✨ Highlights
 👤 Candidate & user management
@@ -82,17 +64,9 @@ A full-stack platform designed to connect job seekers and relevant job opportuni
 📊 Structured candidate/job data
 🔒 Secure authentication flow
 🧩 Tech Used
-<p> <img src="https://skillicons.dev/icons?i=java,spring,angular,mysql" /> </p>
-
-Java Spring Boot Angular MySQL JWT
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,angular,mysql" alt="Smart Job Matching Tech Stack"/> </p> <p align="center"> <b>Java</b> &nbsp; • &nbsp; <b>Spring Boot</b> &nbsp; • &nbsp; <b>Angular</b> &nbsp; • &nbsp; <b>MySQL</b> &nbsp; • &nbsp; <b>JWT</b> </p>
 🎯 InterviewOS — Figma Matching
-<p align="center">
-🎨 Figma → Next.js Interview Platform
-</p>
-
-🔗 Repository:
-https://github.com/Ramrampal/interviewos-figma-matching
+<p align="center"> 🎨 <b>Figma → Next.js Interview Platform</b> </p> <p align="center"> <a href="https://github.com/Ramrampal/interviewos-figma-matching"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p>
 
 A modern interview and assessment platform recreated from a Figma design using Next.js, React and TypeScript, with a focus on responsive UI, reusable components and realistic assessment workflows.
 
@@ -110,13 +84,9 @@ A modern interview and assessment platform recreated from a Figma design using N
 ⚡ Next.js App Router
 🛠️ TypeScript development
 🧩 Tech Used
-<p> <img src="https://skillicons.dev/icons?i=nextjs,react,typescript" /> </p>
-
-Next.js React TypeScript CSS
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,typescript" alt="InterviewOS Tech Stack"/> </p> <p align="center"> <b>Next.js</b> &nbsp; • &nbsp; <b>React</b> &nbsp; • &nbsp; <b>TypeScript</b> &nbsp; • &nbsp; <b>CSS</b> </p>
 🔐 Camera Permission Analyzer
-
-🔗 https://github.com/Ramrampal/camera-permission-analyzer
+<p align="center"> <a href="https://github.com/Ramrampal/camera-permission-analyzer"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p>
 
 A browser-based security awareness project for understanding and analyzing camera permissions.
 
@@ -126,11 +96,10 @@ A browser-based security awareness project for understanding and analyzing camer
 🎨 Interactive frontend
 ⚡ Browser API integration
 
-Tech: HTML CSS JavaScript
+Tech: HTML • CSS • JavaScript
 
 📍 Live Location Tracker
-
-🔗 https://github.com/Ramrampal/live-location-tracker
+<p align="center"> <a href="https://github.com/Ramrampal/live-location-tracker"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p>
 
 A web application exploring browser-based real-time geolocation capabilities.
 
@@ -140,11 +109,10 @@ A web application exploring browser-based real-time geolocation capabilities.
 🗺️ Interactive interface
 ⚡ JavaScript API integration
 
-Tech: HTML CSS JavaScript
+Tech: HTML • CSS • JavaScript
 
 🧬 Medical Research AI
-
-🔗 https://github.com/Ramrampal/medical-research-ai
+<p align="center"> <a href="https://github.com/Ramrampal/medical-research-ai"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p>
 
 An experimental AI-focused project exploring intelligent information processing for medical research.
 
@@ -155,82 +123,33 @@ An experimental AI-focused project exploring intelligent information processing 
 🚀 Future-oriented technology
 📚 DSA & Learning
 🧠 DSA CodeHelp
-
-🔗 https://github.com/Ramrampal/DSA_codeHelp
-
-✔ Data Structures & Algorithms
-✔ Competitive Programming
-✔ Problem Solving
-✔ Coding Interview Preparation
-
+<p align="center"> <a href="https://github.com/Ramrampal/DSA_codeHelp"> <img src="https://img.shields.io/badge/DSA_CodeHelp-181717?style=for-the-badge&logo=github&logoColor=white" alt="DSA CodeHelp"/> </a> </p> <p align="center"> ✔ Data Structures & Algorithms &nbsp; • &nbsp; ✔ Competitive Programming &nbsp; • &nbsp; ✔ Problem Solving &nbsp; • &nbsp; ✔ Coding Interview Preparation </p>
 💻 class-obj-AS-TTS
-
-🔗 https://github.com/Ramrampal/class-obj-AS-TTS
-
-✔ Object-Oriented Programming
-✔ Classes & Objects
-✔ Programming Fundamentals
-
+<p align="center"> <a href="https://github.com/Ramrampal/class-obj-AS-TTS"> <img src="https://img.shields.io/badge/class--obj--AS--TTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p> <p align="center"> ✔ Object-Oriented Programming &nbsp; • &nbsp; ✔ Classes & Objects &nbsp; • &nbsp; ✔ Programming Fundamentals </p>
 🐍 PYTHON__104
-
-🔗 https://github.com/Ramrampal/PYTHON__104
-
-✔ Python Practice
-✔ Logic Building
-✔ Programming Fundamentals
-✔ Problem Solving
-
+<p align="center"> <a href="https://github.com/Ramrampal/PYTHON__104"> <img src="https://img.shields.io/badge/PYTHON__104-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p> <p align="center"> ✔ Python Practice &nbsp; • &nbsp; ✔ Logic Building &nbsp; • &nbsp; ✔ Programming Fundamentals &nbsp; • &nbsp; ✔ Problem Solving </p>
 🔤 String
-
-🔗 https://github.com/Ramrampal/String
-
-✔ String Manipulation
-✔ Coding Problems
-✔ Interview Practice
-
+<p align="center"> <a href="https://github.com/Ramrampal/String"> <img src="https://img.shields.io/badge/String-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p> <p align="center"> ✔ String Manipulation &nbsp; • &nbsp; ✔ Coding Problems &nbsp; • &nbsp; ✔ Interview Practice </p>
 📦 Array
-
-🔗 https://github.com/Ramrampal/Array
-
-✔ Array Problems
-✔ DSA Fundamentals
-✔ Algorithm Practice
-
+<p align="center"> <a href="https://github.com/Ramrampal/Array"> <img src="https://img.shields.io/badge/Array-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/> </a> </p> <p align="center"> ✔ Array Problems &nbsp; • &nbsp; ✔ DSA Fundamentals &nbsp; • &nbsp; ✔ Algorithm Practice </p>
 📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramrampal&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramrampal&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ramrampal&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramrampal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
 📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramrampal&theme=react-dark&hide_border=true"/> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramrampal&theme=react-dark&hide_border=true" alt="Contribution Graph"/> </p>
 🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ramrampal&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ramrampal&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/> </p>
 🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> </p>
 🎯 Current Focus
-Learning:
-  - React.js
-  - Next.js
-  - Java
-  - Spring Boot
-  - Python
-  - AI Development
-  - Cyber Security
-
-Building:
-  - Full Stack Applications
-  - AI Projects
-  - Frontend Applications
-  - Real World Systems
-
-Improving:
-  - Data Structures & Algorithms
-  - System Design
-  - Software Engineering
-  - Clean Code
-
-Goal:
-  - Become a Professional Software Engineer
-
+<div align="center">
+🚀 Area	📌 Focus
+📚 Learning	React.js • Next.js • Java • Spring Boot • Python
+🤖 Exploring	AI Development • Cyber Security
+🏗️ Building	Full-Stack Applications • AI Projects • Frontend Applications
+🧠 Improving	DSA • System Design • Software Engineering • Clean Code
+🎯 Goal	Become a Professional Software Engineer
+</div>
 🤝 Let's Connect
-<p align="center"> <a href="https://github.com/Ramrampal"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://github.com/Ramrampal"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> <a href="#"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 💡 Developer Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer" alt="Footer"/> </p>
